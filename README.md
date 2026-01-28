@@ -388,22 +388,6 @@ idf.py build
 - Works offline after initial load
 - ~700 lines of code total
 
-### Testing
-Before production release:
-1. Test on real hardware (various USB ports)
-2. Test with different firmware sizes
-3. Test error recovery paths
-4. Test on multiple browsers
-5. Verify HTTPS deployment
-
----
-
-## License
-
-MIT License — Free to use and modify
-
----
-
 ## Support
 
 For issues or questions:
