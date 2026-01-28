@@ -1,6 +1,5 @@
 # ESP32-C3 Browser-Based Firmware Flasher
 
-**Production-Ready v0.1** — A secure, minimal, and fully functional browser-based firmware flasher for ESP32-C3 microcontrollers.
 
 ---
 
