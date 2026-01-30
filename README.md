@@ -1,4 +1,4 @@
-# ESP32-C3 Web Firmware Flasher
+# ESP32 Web Firmware Flasher
 
 Browser-based firmware flasher for ESP32-C3 using the Web Serial API. No native tools required.
 
